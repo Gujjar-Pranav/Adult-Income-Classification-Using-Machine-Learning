@@ -1,4 +1,4 @@
-# Census-Based-Income-Classification-Using-Machine-Learning
+# Adult-Income-Classification-Using-Machine-Learning
 This project focuses on building an end-to-end Machine Learning pipeline using the Adult Income dataset (available on Kaggle). The objective is to classify whether an individual earns more or less than $50K per year by applying structured data preprocessing, feature engineering, feature selection, and model optimization techniques.
 
 🚀 Project Overview
@@ -15,7 +15,7 @@ Final evaluation using accuracy and classification metrics
 The XGBoost model achieved an accuracy of approximately 81% on the test dataset.
 
 📊 Dataset
-Adult Census Income Dataset
+Adult Income Dataset
 Kaggle Link: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 The dataset includes 32,561 records describing demographic and employment-related attributes.
 
